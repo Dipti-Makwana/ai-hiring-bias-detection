@@ -66,4 +66,4 @@ Integrate more diverse datasets, add explainability (e.g., SHAP), deploy as a we
 This project is open-source under the MIT License.
 
 ## Contact
-[Dipti Makwana] - [https://www.linkedin.com/in/Dipti-Makwana] - Feel free to reach out for questions!
+Dipti Makwana - https://www.linkedin.com/in/Dipti-Makwana - Feel free to reach out for questions!
