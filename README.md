@@ -45,7 +45,7 @@ Here are key graphs from the project:
   *Caption: Comparison of historical vs. AI selection rates by gender, showing bias reduction.*
 - ![Overall Selection Distribution](Overall_selection_distribution.png)  
   *Caption: Pie chart of overall selected vs. rejected candidates.*
-- ![Feature Importance](Feature_importance.png)  # Fixed typo: "Future_importance" to "Feature_importance"
+- ![Feature Importance](Future_importance.png)  # Fixed typo: "Future_importance" to "Feature_importance"
   *Caption: Feature importance from Random Forest, highlighting merit-based factors.*
 - ![Top 10 Ranked](Top_10_ranked.png)  
   *Caption: Top 10 candidates ranked by merit score.*
