@@ -27,7 +27,7 @@ This project builds an end-to-end AI system to detect and reduce gender bias in 
 - Jupyter Notebook for interactive development
 
 ## Installation and Setup
-1. Clone the repository: `git clone https://github.com/yourusername/ai-hiring-bias-detection.git`
+1. Clone the repository: `git clone https://github.com/Dipti-Makwana/ai-hiring-bias-detection.git`
 2. Install dependencies: `pip install pandas numpy scikit-learn matplotlib seaborn`
 3. Open the notebook: `jupyter notebook AI_Hiring_Bias_Project.ipynb`
 4. Run cells from top to bottom (ensure %matplotlib inline for graphs).
