@@ -1,4 +1,4 @@
-# ai-hiring-bias-detection
+# Ai-hiring-bias-detection
 Where: This is a file in your repo (create it as README.md in your project folder before uploading, or edit it on GitHub after upload).
 
 What to Write: A structured overview of your project. Use Markdown (simple formatting like # for headings, bold, bullet points). Include the report sections from the original prompt.
@@ -37,6 +37,19 @@ This project builds an end-to-end AI system to detect and reduce gender bias in 
 - Bias Reduction: Historical Disparate Impact ~0.67; AI improved to ~0.95, showing reduced gender bias.
 - Visuals: Graphs demonstrate fairer selection rates after AI intervention.
 
+## Visualizations
+Here are key graphs from the project:
+- ![Data](Data.png)  
+  *Caption: Preview of the synthetic dataset used for analysis.*
+- ![AI Selection Rates](Compare_graph.png)  
+  *Caption: Comparison of historical vs. AI selection rates by gender, showing bias reduction.*
+- ![Overall Selection Distribution](Overall_selection_distribution.png)  
+  *Caption: Pie chart of overall selected vs. rejected candidates.*
+- ![Feature Importance](Feature_importance.png)  # Fixed typo: "Future_importance" to "Feature_importance"
+  *Caption: Feature importance from Random Forest, highlighting merit-based factors.*
+- ![Top 10 Ranked](Top_10_ranked.png)  
+  *Caption: Top 10 candidates ranked by merit score.*
+  
 ## Report Sections
 
 ### Problem Statement
